@@ -1,0 +1,240 @@
+
+======================================================================
+FILE: 1 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Get Any File With Extension, To Display Only That File Extension.
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Check Extension Of A File, If File Extension Is “.mp3” Then Display A Message. “This File Is Not Allowed”
+
+======================================================================
+FILE: 2 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Get Temperature In Fahrenheit, To Convert Into Centigrade And Kelvin
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Get Temperature In Centigrade, To Convert Into Fahrenheit And Kelvin
+
+======================================================================
+FILE: 3 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Calculate Circumference And Area Of A Circle
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Calculate Circumference And Area Of A Circle. Half The Answer Of Circumference And Circle Then Add Both Result, Finally Display To User As Result
+
+======================================================================
+FILE: 4 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Get Password From The User That Contain Alpha Numeric And More Than 8 And Less Than 20 Characters
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Get Password From The User That Contain Alpha Numeric, Special Characters, And More Than 8 And Less Than 20 Characters And Restrict User If User Include Uppercase Letter And Space
+
+======================================================================
+FILE: 5 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Store Students Records, User Will Be Able To Delete Any Student From A Record On Run Time
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Get 10 Name Of The Students And Display Them On The Screen And User Able To Update Any Student On Run Time
+
+======================================================================
+FILE: 6 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program To Update Specific Key In A Dictionary.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program To Find Total Length Of Values And Keys In a Dictionary
+
+======================================================================
+FILE: 7 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Get A Email From The User And Make Sure That It Is Email In Proper Format Having @ Symbol And .
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Get A URL from user to check whether it is valid URL or not.
+
+======================================================================
+FILE: 8 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to reverse a sub string from a string.
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Generate A Strong Password, Password Length Should Be Decided By User.
+
+======================================================================
+FILE: 9 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program Sort Dictionary By Key
+
+--- Slide 4 ---
+Assignment
+Write A Python Program Sort Dictionary By Value
+
+======================================================================
+FILE: 10 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Find Gravitational Force
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Find Coulomb Force between two charges.
+
+======================================================================
+FILE: 11 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write A Python Program To Get a length in mm and convert to m and km
+
+--- Slide 4 ---
+Assignment
+Write A Python Program To Get a length in cm and convert to m and km
+
+======================================================================
+FILE: 12 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to find most occurring element in a given list of numbers.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to find less occurring element in a given list of numbers.
+
+======================================================================
+FILE: 13 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to create a parameterized and non parameterized constructor.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to create a destructor.
+
+======================================================================
+FILE: 14 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to create a class of student having two data member (name and id) having a two methods, one is used to get name and id and other is to display name and id to user.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to create a class to show concept of inheritance.
+
+======================================================================
+FILE: 15 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to get a number from user to display square of its previous number and next number.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to get a number from user to display sin and cos value of its previous number and next number.
+
+======================================================================
+FILE: 16 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to count any item from a nested list.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to print a list from a nested list which have lowest number.
+
+======================================================================
+FILE: 17 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program To Get a word from user. The word should contain lower and uppercase both. Then convert lower to upper and upper to lower.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program To Get a Number From User, And Display Number From 0, Up To User Entered Number.
+
+======================================================================
+FILE: 18 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to count total number of lists in a nested list.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to access element from a nested list.
+
+======================================================================
+FILE: 19 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to create a nested list and access nested list item.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to create a nested TUPLE.
+
+======================================================================
+FILE: 20 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to access multiple elements from a list.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to access multiple elements from a tuple. Starting index and ending index provided by user.

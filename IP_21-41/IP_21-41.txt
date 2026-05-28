@@ -1,0 +1,243 @@
+
+======================================================================
+FILE: 21 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to get 5 number from user to store in a list. Display all the numbers with power of 3 using list comprehension.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to get 5 number from user to store in a list.  Add all that number to each other using list comprehension.
+
+======================================================================
+FILE: 22 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create a Nested Dictionary and Access Value.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to create a nested dictionary. And Also iterate nested dictionary items
+
+======================================================================
+FILE: 23 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to print a dictionary items line by line. Key and value should have one tab distance.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to create a alpha string based dictionary to print dictionary items in uppercase.
+
+======================================================================
+FILE: 24  Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to filter odd numbers from a given dictionary keys. Display only those values which have odd keys.
+
+--- Slide 4 ---
+Algorithm
+d = {1:"ali",2:"jafri",3:"zamir"}
+for k,v in d.items():
+    if k%2 != 0:
+        print(v)
+
+======================================================================
+FILE: 25 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to get the total length of all keys of a dictionary with string keys.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to get the total length of all values of a dictionary with string values.
+
+======================================================================
+FILE: 26 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to convert dictionary’s keys and values into two list. One list should store keys and other list should store values.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to convert dictionary’s keys and values into two tuple. One tuple should store keys and other tuple should store values.
+
+======================================================================
+FILE: 28 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to find a maximum key in a dictionary (having key with number data type)
+
+--- Slide 4 ---
+Assignment
+Write a Python program to find a maximum value in a dictionary (having value with number data type)
+
+======================================================================
+FILE: 29 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to update any value in a dictionary on user request.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to update any key in a dictionary on user request.
+
+======================================================================
+FILE: 30  Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create a Dictionary to find addition of all the keys and Product of all the values from a dictionary.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Display set of element from a list.
+
+======================================================================
+FILE: 31 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create a dictionary which display those value which have vowel character.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to get 10 number from user to print minimum, maximum and starting, ending number to user.
+
+======================================================================
+FILE: 32 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy program to check element whether it is NaN or not.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to Create an array of the integers from 0 to 50
+
+======================================================================
+FILE: 33 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy Program to Create a array of zero. According to user entered number.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to Create a array of 8 ones.
+
+======================================================================
+FILE: 34 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python OOP program to get a number from user to display its table.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to get Two Dimensional Array input from user to Display 2D Array using while Loop.
+
+======================================================================
+FILE: 35 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python NumPy program to add two array.
+
+--- Slide 4 ---
+Assignment
+Write a Python NumPy program to Subtract two array.
+
+======================================================================
+FILE: 36 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python NumPy program to make an array of equal shape having same data type of a given array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program To Multiply Two Array.
+
+======================================================================
+FILE: 37 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a NumPy program to create a new array of given shape (4,3) and type, filled with zeros.
+
+--- Slide 4 ---
+Assignment
+Write a NumPy program to create a new array of given shape (4,3) and type, filled with ones. And make in such way, user give shape value on run time.
+
+======================================================================
+FILE: 38 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a NumPy program to create one-dimensional array, getting number element from user using for loop.
+
+--- Slide 4 ---
+Assignment
+Write a NumPy program to create one-dimensional array, getting number element from user using while loop.
+
+======================================================================
+FILE: 39 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Numpy Program To Create a Two-dimensional Array & Multiply with any number to that array elements. That number take from user.
+
+--- Slide 4 ---
+Assignment
+Write a Numpy Program To Create a one dimensional array. Display only even number from array.
+
+======================================================================
+FILE: 40 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Reverse a Array.
+
+--- Slide 4 ---
+Assignment
+Write Python Program Convert array elements from float to integer
+
+======================================================================
+FILE: 41 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy program to convert a given array into a list.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy program to convert a given list into an array, then again convert it into a list.

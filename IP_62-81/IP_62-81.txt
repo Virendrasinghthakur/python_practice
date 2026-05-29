@@ -1,0 +1,241 @@
+
+======================================================================
+FILE: 62 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to read an excel file using xlwings
+
+--- Slide 4 ---
+Assignment
+Write a Python program to read an excel file using other than xlwings
+
+======================================================================
+FILE: 63 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to write data to excel cell using python xlsxwriter.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to write data to excel cell using python other than xlsxwriter library
+
+======================================================================
+FILE: 64 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to insert an element before each element of a list.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to insert an element after each element of a list.
+
+======================================================================
+FILE: 65 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to read specific column data from excel.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to use append method in excel using python
+
+======================================================================
+FILE: 66 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to perform different operation on excel file
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to perform arithmetic operation on excel file.
+
+======================================================================
+FILE: 67 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to find maximum and minimum number from a excel file
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to copy data from one excel sheet to another
+
+======================================================================
+FILE: 68 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Display positive and negative in a list. When there is Positive and Negative number. Using list comprehension.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to display positive, negative and Zero in a list. When there is positive, negative or Zero number. Using list comprehension.
+
+======================================================================
+FILE: 69 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to count number of instances of a Python class.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to count number of instances of a Python class. Use another Method.
+
+======================================================================
+FILE: 70 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to read a CSV file as a list
+
+--- Slide 4 ---
+Assignment
+Write a Python program to read a CSV file as a list using another method.
+
+======================================================================
+FILE: 71 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to read a CSV file as a list using another method.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to multiply with every number with user entered number in a list.  When Number is Even
+
+======================================================================
+FILE: 72 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Update cell value of CSV.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Delete cell value of CSV.
+
+======================================================================
+FILE: 73 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to get 10 number from user to store in a list. Make one number of all 10 number. 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10] -> 2345678910
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to delete any row in a CSV file
+
+======================================================================
+FILE: 74 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to get column names from CSV.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to get column names from CSV. Using another method.
+
+======================================================================
+FILE: 75 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to convert JSON into Python object.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to take Python data from user to convert into JSON Data.
+
+======================================================================
+FILE: 76 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to get Information about Operating System.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to get the size, permissions, owner, device of a specified path.
+
+======================================================================
+FILE: 77 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python program to create a window and set its title
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python program to provide width and height to window.
+
+======================================================================
+FILE: 78 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python program to create a window and Insert some text to window
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python program to create a window and Insert some text to window. Also change label color, background color etc
+
+======================================================================
+FILE: 79 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python program to create a window as resizable.
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python program to create a window and provide title with icon.
+
+======================================================================
+FILE: 80 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python program to create a window and set geometry that should be fixed. And Disable resize functionality
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python program to create a window and Insert a Button.
+
+======================================================================
+FILE: 81 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python Program to insert a Button in Window. When click on that button a function should run
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python Program to insert a Button in Window. When click on the button, it take two number from user to add both number in console.

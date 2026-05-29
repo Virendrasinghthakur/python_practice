@@ -1,0 +1,240 @@
+
+======================================================================
+FILE: 42 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy program to convert array element to Boolean value
+
+--- Slide 4 ---
+Assignment
+Write a Python NumPy program to convert an array to bytes and load it as array.
+
+======================================================================
+FILE: 43  Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy program to create a array, store in a text file and display the result.
+
+--- Slide 4 ---
+Assignment
+Write a Python NumPy program to save a given array to a text file and load it. Using another method.
+
+======================================================================
+FILE: 44 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy program to create a 4x4 zero matrix with elements on the main diagonal equal to 6, 7, 8, 9.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy program to create a 4x4 zero matrix.
+
+======================================================================
+FILE: 45 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write Python Program to make use of isidentifier method with string
+
+--- Slide 4 ---
+Assignment
+Write Python Program to make use of isidigit method with string
+
+======================================================================
+FILE: 46 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program Create dictionary from existed dictionary which display length of words as value
+
+--- Slide 4 ---
+Assignment
+Write a Python Program Create dictionary which display length of words as key. It should display length of value.
+
+======================================================================
+FILE: 47 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create a dictionary from list that display its square as value.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program Create dictionary from list that display its square as key.
+
+======================================================================
+FILE: 48 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create list from existed list that count number less than 20 greater than 5
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Create list from existed dictionary that count number less than 20 greater than 5
+
+======================================================================
+FILE: 49 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create a list from existed list that contain uppercase words
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Create a list from existed list that contain lowercase words
+
+======================================================================
+FILE: 50 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create set that display only even number
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Create set that display only odd number
+
+======================================================================
+FILE: 51 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a NumPy program to create a three dimension array with shape (3,4,4) and set to a variable
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to generate one particular value of a matrix
+
+======================================================================
+FILE: 52 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy Program to repeat array element.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to create a one dimensional array element. Then convert to list and then to tuple.
+
+======================================================================
+FILE: 53 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Numpy Program to replace any number in Array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to reshape an array
+
+======================================================================
+FILE: 54 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Numpy program to perform addition, subtraction, division and multiplication on Array Element.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to display 1 dimension array with equality gaps between a range.
+
+======================================================================
+FILE: 55 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to append array element to existing array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Generate a random month between start and end date.
+
+======================================================================
+FILE: 56 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Display element of list with their occurrence
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to display element of list with their occurrence using another method.
+
+======================================================================
+FILE: 57 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Pandas program to convert a Numpy array to a Pandas series.
+
+--- Slide 4 ---
+Assignment
+Write a Python Pandas program to convert a Pandas series to Numpy array.
+
+======================================================================
+FILE: 58 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Pandas program to find transpose of array
+
+--- Slide 4 ---
+Assignment
+Write a Python Pandas program to compare two Numpy array.
+
+======================================================================
+FILE: 59 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to display only those number that are divisible by 4 or 5 from list, using list comprehension.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to Find the number of occurrences of a sequence in a array
+
+======================================================================
+FILE: 60 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to convert array float data type to integer data type.
+
+--- Slide 4 ---
+Assignment
+Write a Python Numpy Program to Check whether a array contains a specified row.
+
+======================================================================
+FILE: 61 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Create a excel file using python using xlswriter library
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Create a excel file using python using other than xlswriter library

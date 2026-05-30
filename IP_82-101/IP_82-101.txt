@@ -1,0 +1,240 @@
+
+======================================================================
+FILE: 82 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python Program to insert a Button in Window. Window should be close when user click on the button.
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python Program to insert a Button in Window. A message box should be display when user click on the button.
+
+======================================================================
+FILE: 83 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python Program to insert a Image as button in Window.
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python Program to insert a Image as button with text in Window.
+
+======================================================================
+FILE: 84 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Desktop Python program to create a Checkboxes.
+
+--- Slide 4 ---
+Assignment
+Write a Desktop Python program to create a Checkboxes to change background color, cursor, font, fg, border etc.
+
+======================================================================
+FILE: 85 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Create a Desktop Python Program to insert Image in Window.
+
+--- Slide 4 ---
+Assignment
+Create a Desktop Python Program to insert Image in Window when a user click on button.
+
+======================================================================
+FILE: 86 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Desktop Python program to get first and last name from user to display full name to user.
+
+--- Slide 4 ---
+Assignment
+Write a Desktop Python program to get a number from user to display its cube.
+
+======================================================================
+FILE: 87  Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Desktop Python program to get two number from user to display their reminder after division.
+
+--- Slide 4 ---
+Assignment
+Write a Desktop Python program to get a string from user to change uppercase if user string is in lowercase.
+
+======================================================================
+FILE: 88 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Desktop Python program to get a character from user to check whether it is vowel or not.
+
+--- Slide 4 ---
+Assignment
+Write a Desktop Python program to get a string from user to reverse.
+
+======================================================================
+FILE: 89 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python program to get a string from user which contain number at starting and ending position.
+
+--- Slide 4 ---
+Assignment
+Write a Desktop Python program to get a string from user which contain alpha at starting and ending position.
+
+======================================================================
+FILE: 90 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Desktop Python program to get a year from user to check it is leap year or not.
+
+--- Slide 4 ---
+Assignment
+Write a Python program to get a year from user to check it is leap year or not using OOP
+
+======================================================================
+FILE: 91 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program To find array size in bytes.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program To find array size in bytes using OOP.
+
+======================================================================
+FILE: 92 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to count any array element from existed array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to count any array element from existed array using OOP
+
+======================================================================
+FILE: 93 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to display odd number from array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to display odd number from array using OOP.
+
+======================================================================
+FILE: 94 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to remove any specific element from array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to remove any specific element from array using OOP.
+
+======================================================================
+FILE: 95 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to Reverse array element.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to Reverse array element using OOP.
+
+======================================================================
+FILE: 96 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to find maximum number from array.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to find minimum number from array.
+
+======================================================================
+FILE: 97 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to get a number from user to check whether it is divisible by 5 or not using OOP.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to get a number from user to check whether it is multiple of 5 or not using Procedural programming.
+
+======================================================================
+FILE: 98 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to get a number from user to check whether it is multiple of 2 and 3 or not using OOP.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to get a number from user to check whether it is multiple of 2 and 3 or not using Procedural programming.
+
+======================================================================
+FILE: 99 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to find average of 5 number.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to find average of 5 number using OOP.
+
+======================================================================
+FILE: 100 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to create a list on run time, display list element, and also find max and min item from list of integers using OOP.
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to create a list on run time, display list element, and also find max and min item from list of integers using Procedural Programming.
+
+======================================================================
+FILE: 101 Intermediate Problem and Solution.pptx
+======================================================================
+
+--- Slide 2 ---
+Problem Statement
+Write a Python Program to find addition of list element to create a new list. Add element of list as 1st and 2nd, 2nd and 3rd, 3rd and 4th …
+
+--- Slide 4 ---
+Assignment
+Write a Python Program to find addition of list element to create a new list. Add element of list as 1st and 2nd….  Using OOP.

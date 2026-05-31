@@ -1,0 +1,30 @@
+ Question 1
+Write a Python Program To Find Roots Of Quadratic Equation
+
+Question 2
+Write a Python Program To Find Roots Of Quadratic Equation: Make some modification
+
+Question 3
+Write a Pandas program to perform basic arithmetic operations on two pandas series
+
+Question 4
+Algorithm import pandas as pd ds1 = pd.Series([2, 4, 6, 8, 10]) ds2 = pd.Series([1, 3, 5, 7, 9]) ds = ds1 + ds2 print("Add two Series:") print(ds) print("Subtract two Series:") ds = ds1 - ds2 print(ds) print("Multiply two Series:") ds = ds1 * ds2 print(ds) print("Divide Series1 by Series2:") ds = ds1 / ds2 print(ds)
+
+Question 5
+Write a Desktop Application in Python To Get A Username From The User That Should Have Alphanumeric Characters
+
+Question 6
+Write a Desktop Application in Python To Get A Password From The User That Should Have Alphanumeric and Special Characters
+
+Question 7
+Write A Desktop Application To Get A String From User To Save In Text File.
+
+Question 8
+Write A Desktop Application To Get A String From User. Display Required String Sub Part Using Slicing Method.
+
+Question 9
+Create a web application in python to create a database table for student to store student information.
+
+Question 10
+Write A Python Program To Get String From User To Display Required Character That Present On Odd Index Number. Required Character Get From User
+

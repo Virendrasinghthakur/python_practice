@@ -1,0 +1,13 @@
+# Create a web application in python to make a hello world program
+
+
+from fastapi import FastAPI
+import uvicorn
+app=FastAPI()
+
+@app.get("/home")
+def hello():
+    return {"response":"hello world"}
+
+if __name__=="__main__":
+    uvicorn.run("p5:app",host="127.0.0.1",port=8000,reload=True)

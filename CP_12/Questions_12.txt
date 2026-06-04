@@ -1,0 +1,30 @@
+Question 111
+Write a Python Program to make dictionary to a text file
+
+Question 112
+Write a Python Program to make List of students to a text file
+
+Question 113
+Write a Python Program to check file size.
+
+Question 114
+Write a Python Program to check file size. Display message if file size between 3 to 5 Mb.
+
+Question 115
+Create a web application in python to make a hello world program
+
+Question 116
+Create a web application in python to make percentage calculator and design with CSS coding
+
+Question 117
+Write a Web application in Python to find union and intersection of two set. A = {3,2,4,5,6,7,8} B = {4,12,5,1,6,8}
+
+Question 118
+Write a Web application in Python to calculate difference and symmetric difference of two. A = {3,2,4,5,6,7,8} B = {4,12,5,1,6,8}
+
+Question 119
+Write A Web application in Python To Take Age From The User To Check Whether User Able To Participate In Voting Or Not. If Age Is Less Than 18 Then It Don’t Allow To Participation. And Show, After How Much Year a Person Will Be Able To Participate
+
+Question 120
+Write A Web application in Python To Take Age and Marks From User To Check Whether User Able To Get admission Or Not. Criteria: Age should be greater than 20 or less than or equal to 25 Marks should be greater than 60 or less than or equal to 100.
+

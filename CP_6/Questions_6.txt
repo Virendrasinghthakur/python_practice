@@ -1,0 +1,30 @@
+Question 51
+Create a Web Application to Get a sentence from user to convert into uppercase. And also display length of sentence, total spaces to user.
+
+Question 52
+Create a Web Application to Get a sentence from user to convert into uppercase. And also display length of sentence, total words, total spaces to user.
+
+Question 53
+Write a Pandas program to create a subset of a given series.
+
+Question 54
+Write a Pandas program to create a subset of a given series. Add some modification.
+
+Question 55
+Write a Web Application to register a user on Django.
+
+Question 56
+Write a Web Application to add login functionality in Django Application.
+
+Question 57
+Write a Web Application to add logout functionality in Django Project
+
+Question 58
+Write a Web Application to retrieve data from database table and display to user.
+
+Question 59
+Write a Python Program to get a alpha character from user to check whether it is in given range or not: range(a to f)
+
+Question 60
+Write a Python Program to get a alpha character from user to check whether it is in given range or not: range(a to f) or (A-F)
+

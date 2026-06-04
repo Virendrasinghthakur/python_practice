@@ -1,0 +1,30 @@
+Question 41
+Write a Python Program to find resolution of an image
+
+Question 42
+Algorithm import cv2 img = cv2.imread('Screenshot_1.png', cv2.IMREAD_UNCHANGED) height = img.shape[0] width = img.shape[1] print(str(width)+" x "+(str(width)))
+
+Question 43
+Write a Python Program to Blur an image
+
+Question 44
+Write a Python Program to blur an image on web
+
+Question 45
+Write a Python Program to Rotate an image
+
+Question 46
+Write a Python Program to Rotate an image: Using another method
+
+Question 47
+Write a Python program to load csv file using pandas and print the shape of the csv file and display data in the form of string.
+
+Question 48
+Write a Python program to load csv file using other than pandas library and print the shape of the csv file and display data in the form of string.
+
+Question 49
+Write A Python Program To Generate Random Number , And Display Message If Required Number Matched. Required Number Will Be Taken From User
+
+Question 50
+Algorithm import random a = random.randint(1,3) d = input("n") print(a) if int(d) == a: print("matched") else: print("not machted, because your number is "+str(d)+" and system number is "+str(a))
+

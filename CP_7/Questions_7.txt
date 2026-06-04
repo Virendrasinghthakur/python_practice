@@ -1,0 +1,30 @@
+Question 61
+Write a Python program to get a string from user that have starting char f and ending char z (zero, one or many z).
+
+Question 62
+Write a Python program to get a string from user that have starting char f and ending char z (zero, one or many z).  Having between optional character also.
+
+Question 63
+Write a Python Program To Get a Sentence From User And Also Get a Char Or Set Of Char To Check At Last Of Sentence.
+
+Question 64
+Write a Python Program To Get a Sentence From User And Also Get a Char Or Set Of Char To Check At Start of Sentence.
+
+Question 65
+Write a Python program to find the sequences of UPPERCASE and lowercase letters. Lowercase should be at end.
+
+Question 66
+Write a Python program to find the sequences of lowercase and UPPERCASE letters. Uppercase should be at end.
+
+Question 67
+Write a Python program that find a string which have ‘m' char then anything (optional) and end at ‘0'.
+
+Question 68
+Write a Python program that matches a string that has an ‘m or M' followed by anything, ending in ‘0 or 1'.
+
+Question 69
+Write a Python program to check a to z, A- Z, 0 to 9 and _ from a user entered string at starting position.
+
+Question 70
+Write a Python program to check a to z, A- Z, 0 to 9 and _ from a user entered string at ENDING position.
+

@@ -1,0 +1,30 @@
+Question 11
+Create  a web application in python to create a super user and view the admin area
+
+Question 12
+Write A Python Program To Get A Integer Number From User To Convert Into Complex on Web
+
+Question 13
+Write a Python Program to get 5 number from user, store in a list, convert to pandas series to change their default index numbers to alpha.
+
+Question 14
+Write a Web Application Python Program to get 5 number from user, store in a list, convert to pandas series to change their default index numbers to alpha.
+
+Question 15
+Create  a web application in python to display website different web page like home, contact us, about us etc
+
+Question 16
+Write A Python Program To Create Powerpoint File On User Request on Web
+
+Question 17
+Write a Python Program To Find Keyword Density In a Article
+
+Question 18
+Write A Python Program To Find Keyword Density In A Article. And Display A Message If Density Increase Up To 3%
+
+Question 19
+Write a Pandas Program To Add Some Data To An Existing Series.
+
+Question 20
+Write A Python Program To Create A CSV File To Store Odd Number As Generated From 200 To 100.
+

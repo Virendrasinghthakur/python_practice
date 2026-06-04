@@ -1,0 +1,30 @@
+Question 91
+Write a Python Program for Linear Search
+
+Question 92
+Write a Python Program for Binary Search
+
+Question 93
+Write A Python Program To Find Union , Intersection And Difference Of Two Set
+
+Question 94
+Write A Python Program To Find Union , Intersection And Difference Of Two Set. Find Sum Of All Items Of Union, Intersection And Difference.
+
+Question 95
+Write a Python Program to play a sound in python
+
+Question 96
+Write a Python Program to play a video in python
+
+Question 97
+Write a Python Program to play a wav file in python using pydub library
+
+Question 98
+Write a Python Program to cut a wav file audio in python.
+
+Question 99
+Write a Python Program to Open the url using urllib library
+
+Question 100
+Write a Python Program to Open the URL using other than urllib library
+

@@ -1,0 +1,30 @@
+Question 81
+Display image using PIL library
+
+Question 82
+Display image using other than PIL library
+
+Question 83
+Write a Python Program to write text on picture
+
+Question 84
+Write a Python Program to join two pictures.
+
+Question 85
+Write a Python program to check whether password is strong or weak.
+
+Question 86
+Write a Python program to check whether password is strong or weak on WEB.
+
+Question 87
+Write a regular expression Program in Python to search following pattern inside a string: anything(optional)Number_Uppercase
+
+Question 88
+Write a regular expression Program in Python to search following pattern inside a string: anythingNumber_Uppercase
+
+Question 89
+Write a Python Program to create an empty class.
+
+Question 90
+Write a Python Program to create an class with data members.
+

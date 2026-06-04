@@ -1,0 +1,30 @@
+Question 71
+Write a Pandas program to convert a Panda module Series to Python list.
+
+Question 72
+Algorithm ds = pd.Series([2, 4, 6, 8, 10]) print("Pandas Series and type") print(ds) print(type(ds)) print("Convert Pandas Series to Python list") print(ds.tolist()) print(type(ds.tolist()))
+
+Question 73
+Write a Python program that matches a word containing ‘m'.
+
+Question 74
+Write a Python program that matches a word containing ‘6‘ digit.
+
+Question 75
+Write a Python program which match a string that contains uppercase,  lowercase char, numbers, and underscores. It Ignore white space, punctuation etc
+
+Question 76
+Write a Python program which match a string that contains uppercase, numbers, and underscores. It should not Ignore white space.
+
+Question 77
+Write a Python program where a string will start with a specific number.
+
+Question 78
+Write a Python program where a string will END with a number.
+
+Question 79
+Write a Python program to match a number 0 to 5 at the ending of a string.
+
+Question 80
+Write a Python program to match a number and _ at the ending of a string.
+

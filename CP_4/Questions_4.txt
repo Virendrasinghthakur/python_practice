@@ -1,0 +1,30 @@
+Question 31
+Create a web application in python that get 10 product price and display total bill with discount in percentage functionality
+
+Question 32
+Write A Python Program To Make A English Dictionary App That Translate Into Arabic
+
+Question 33
+Create  a Python Program to Count total number of Uppercase and Lowercase in a string.
+
+Question 34
+Algorithm For I in string: if i.isupper() u += 1 if i.lower() L +=1
+
+Question 35
+Write A Python Program To Generate OTP On User Request
+
+Question 36
+Algorithm import string import random N = 4 res = ''.join(random.choices(string.digits, k=N)) print("The generated random string : " + str(res))
+
+Question 37
+Write a Python Program to display image using openv
+
+Question 38
+Algorithm import cv2 img = cv2.imread('/home/img/python.png') cv2.imshow('sample image',img) cv2.waitKey(0) # waits until a key is pressed cv2.destroyAllWindows() # destroys the window showing image
+
+Question 39
+Write A Python Program to Generate a Strong Password, Length should be provided from user.
+
+Question 40
+Algorithm import string import random N = 10 res = ''.join(random.choices(string.ascii_uppercase + string.ascii_lowercase + string.punctuation + string.digits, k=N)) print("The generated random string : " + str(res))
+

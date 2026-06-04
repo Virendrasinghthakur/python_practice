@@ -1,0 +1,30 @@
+Question 21
+Write a Python program to get 3 color code and color name from user to store in a dictionary and convert it into Python Pandas Series.
+
+Question 22
+Write A Python Program To Store 5 Subjects Marks Of Student And Also Store Their Total, Average And Percentage on Web
+
+Question 23
+Write A Python Program To Get Current User Of Computer
+
+Question 24
+Write A Python Program To Get RAM and CPU Usage Of Computer
+
+Question 25
+Write A Python Program To Get File Name From User Without Space
+
+Question 26
+Algorithm f = input("file") flag = "no" for i in f: if i.isspace(): flag = "yes" if flag == "yes": print("File contain space") else: print(f)
+
+Question 27
+Write A Python Program To Get A Paragraph From User, To Find(total Char, without space total char, Total Words And Spaces)
+
+Question 28
+Algorithm s = input("S") sz = len(s) print(sz) c = 0 for i in range(0, sz): if s[i] == " ": c +=1 print(sz-c) print(c) print(c+1)
+
+Question 29
+Create a web application to display Django user data in a table.
+
+Question 30
+Write A Python Program To Get Phone Number From User. And System Should Put a ‘-’ After Country And Area Code Automatically on Web
+

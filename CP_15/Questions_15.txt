@@ -1,0 +1,30 @@
+Question 141
+Write a Web Application in Python To Get 2 Number From The User, Find Their Square, And Add Both Result, Finally Find Cube Of Result And Display To User.
+
+Question 142
+Write Desktop Application in Python To Get 2 Number From The User, Find Their Square, And Add Both Result, Finally Find Cube Of Result And Display To User.
+
+Question 143
+Write A Web application in Python To Get A Number From User, The System Should Add Auto Increment To That Number. Half Of User Entered Number Should Be Incremented.
+
+Question 144
+Write A Desktop application in Python Program To Get A Number From User, The System Should Add Auto Increment To That Number. Half Of User Entered Number Should Be Incremented
+
+Question 145
+Write a Web application in Python To Find Acceleration Of An Object Having Velocity (v) in (t) Time. Display unit with Acceleration as m/s2
+
+Question 146
+Write A Desktop application in  Python Program To Find Acceleration Of An Object Having Velocity v in t Time.
+
+Question 147
+Write Web application in Python To Find Force Of A Man On A Object Which Have  Mass And Acceleration. Get Mass And Acceleration From User. Display unit with Force as Newton.
+
+Question 148
+Write Desktop application in Python Program To Find Force Of A Man On A Object Which Have  Mass And Acceleration. Get Mass And Acceleration From User
+
+Question 149
+Write Web application in A Python To Add Number From List That Are Greater Than 5 And Less Than 10
+
+Question 150
+Write Desktop application in  A Python Program To Add Number From List That Are Greater Than 5 And Less Than 10
+
